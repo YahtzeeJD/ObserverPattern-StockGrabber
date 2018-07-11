@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern-StockGrabber", "ObserverPattern-StockGrabber\ObserverPattern-StockGrabber.csproj", "{C656A825-63A8-4A38-A4C2-B73A3D0C55E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C656A825-63A8-4A38-A4C2-B73A3D0C55E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C656A825-63A8-4A38-A4C2-B73A3D0C55E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C656A825-63A8-4A38-A4C2-B73A3D0C55E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C656A825-63A8-4A38-A4C2-B73A3D0C55E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E19CC4-5E78-4AAE-9D30-096252FE2D17}
+	EndGlobalSection
+EndGlobal
